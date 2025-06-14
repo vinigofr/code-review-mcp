@@ -1,0 +1,11 @@
+{
+  "name": "code-review-mcp",
+  "version": "1.0.0",
+  "description": "Simple MCP do read files and deliver a review based on rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinicius Gouveia",
+  "license": "ISC"
+}
